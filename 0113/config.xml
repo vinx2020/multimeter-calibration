@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instruments>
+    <instrument data-id="1">
+        <nom>2000</nom>
+        <typ>DUT</typ>
+    </instrument>
+    <instrument data-id="2">
+        <nom>5522</nom>
+        <typ>Calibrateur</typ>
+    </instrument>
+    <instrument data-id="3">
+        <nom>2001</nom>
+        <typ>Multimeter #2</typ>
+    </instrument>
+</instruments>
